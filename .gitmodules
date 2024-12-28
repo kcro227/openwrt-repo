@@ -1,0 +1,6 @@
+[submodule "luci-app-modem"]
+	path = luci-app-modem
+	url = https://github.com/qianlyun123/luci-app-modem.git
+[submodule "package/wwan/app/luci-app-modem"]
+	path = package/wwan/app/luci-app-modem
+	url = https://github.com/qianlyun123/luci-app-modem.git
